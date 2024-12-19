@@ -2,7 +2,7 @@
 Design and Verification of a Synchronous 8bit-16location FIFO using System Verilog concepts.
 
 
-## Verilog code for Design module
+## Synchronous-FIFO Module Design
 
 ``` systemverilog
 
@@ -67,7 +67,7 @@ endinterface
 
 ```
 
-## TESTBENCH for FIFO design
+## TESTBENCH for Synchronous-FIFO Design
 
 ``` systemverilog
 
